@@ -150,7 +150,7 @@ nematode_w <- nematode %>%
   evi = 2.5*(nir-r)/(nir+(6*r)-(7.5*b))+1,
   nli=  ((nir^2)-r)/((nir^2)+r))
 
-nematode_w 
+nematode_w
 ```
 
 # 4) Function writing - CV
